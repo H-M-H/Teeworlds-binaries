@@ -1,3 +1,3 @@
 # Teeworlds-binaries
 
-collection of binaries for Macintosh
+Collection of binaries for macOS.
